@@ -6,7 +6,8 @@
 
 Chess Tournament Manager is a desktop application designed to simplify the organization and management of chess tournaments.
 
-The project is being developed for the **FSU Chess Club** to provide a free, modern, and accessible alternative to existing tournament-management solutions.
+The **FSU Chess Club** regularly organizes chess tournaments and needed a free, modern tournament-management solution.
+Existing platforms can be expensive, overly complex, or dependent on web services. This project aims to provide a free desktop application tailored toward chess clubs.
 
 The application will support tournament creation, player management, Swiss-system pairing, round and result management, standings, and persistent tournament data.
 
